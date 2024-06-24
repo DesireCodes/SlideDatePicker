@@ -1,10 +1,10 @@
 # Material Slide Date Picker
 
-[![](https://jitpack.io/v/niwattep/material-slide-date-picker.svg)](https://jitpack.io/#niwattep/material-slide-date-picker)
+[![](https://jitpack.io/v/desirecodes/material-slide-date-picker.svg)](https://jitpack.io/#niwattep/material-slide-date-picker)
 
 A slide date picker for Android.
 
-![alt text](https://github.com/niwattep/material-slide-date-picker/blob/master/image/image.jpg)
+![alt text](https://github.com/desirecodes/material-slide-date-picker/blob/master/image/image.jpg)
 
 ## Prerequisites
 
@@ -26,7 +26,7 @@ allprojects {
 Add the dependency into you app level `build.gradle`
 
 ```gradle
-implementation 'com.github.niwattep:material-slide-date-picker:v2.0.0'  
+implementation 'com.github.DesireCodes:SlideDatePicker:1.0.0'  
 ```
 
 ## Usage
