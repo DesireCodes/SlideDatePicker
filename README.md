@@ -1,6 +1,6 @@
 # Material Slide Date Picker
 
-[![](https://jitpack.io/v/desirecodes/material-slide-date-picker.svg)](https://jitpack.io/#niwattep/material-slide-date-picker)
+[![](https://jitpack.io/v/niwattep/material-slide-date-picker.svg)](https://jitpack.io/#niwattep/material-slide-date-picker)
 
 A slide date picker for Android.
 
