@@ -4,7 +4,7 @@
 
 A slide date picker for Android.
 
-![alt text](https://github.com/DesireCodes/SlideDatePicker//blob/master/image/image.jpg)
+![alt text](https://github.com/DesireCodes/SlideDatePicker/blob/master/image/image.jpg)
 
 ## Prerequisites
 
